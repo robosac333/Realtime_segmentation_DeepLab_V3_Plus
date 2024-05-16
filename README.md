@@ -1,4 +1,6 @@
 # Oak-D-Segmentation
+# Demonstration
+![](./git_images/Video_2024-05-16_08-31-07-ezgif.com-video-to-gif-converter.gif)
 # Setup
 ## Setup Python Environment
 
@@ -124,4 +126,3 @@ pip install depthai=2.16.0.0 opencv-python
 ```bash
 python cam_test.py
 ```
-
