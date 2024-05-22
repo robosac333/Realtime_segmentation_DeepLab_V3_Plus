@@ -1,6 +1,9 @@
 # Oak-D-Segmentation
 # Demonstration
+## Single Class
 ![](./git_images/Video_2024-05-16_08-31-07-ezgif.com-video-to-gif-converter.gif)
+## Multi-class
+![](./git_images/muti-class.gif)
 # Setup
 ## Setup Python Environment
 
